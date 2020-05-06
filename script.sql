@@ -1,0 +1,1 @@
+select * from dbapp.hatecrimes limit 5;

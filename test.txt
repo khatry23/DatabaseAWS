@@ -1,0 +1,5 @@
+(461105, datetime.date(2013, 1, 1), 'Pennsylvania', 'Mckeesport', 0, 4, None)
+(478855, datetime.date(2013, 1, 1), 'Ohio', 'Lorain', 1, 3, 2)
+(478959, datetime.date(2013, 1, 7), 'North Carolina', 'Greensboro', 2, 2, 2)
+(479363, datetime.date(2013, 1, 19), 'New Mexico', 'Albuquerque', 5, 0, 2)
+(479389, datetime.date(2013, 1, 21), 'California', 'Brentwood', 0, 4, None)
